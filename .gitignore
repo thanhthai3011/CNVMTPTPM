@@ -50,4 +50,11 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
-Ngo Thanh Thai
+
+*.vs/
+*.bin/
+*.vs/
+*.obj/
+bin/
+vs/
+obj/
